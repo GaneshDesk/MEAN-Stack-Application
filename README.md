@@ -33,7 +33,7 @@ NodeJS: Handle Client and Server Requests
 Express JS: Make requests to Database and return a response
 MongoDB: Store and retrieve data.
 
-
+![](Images/img2.jpg)
 
 
     1. Firstly, the client makes a request which is processed by the Angular.
