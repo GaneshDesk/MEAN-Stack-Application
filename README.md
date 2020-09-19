@@ -1,7 +1,7 @@
 ﻿# MEAN-Stack-Applications
 This repository contains MongoDB, Express, Angular, Node Programs.
 
-![Test Image 1](https://github.com/GaneshDesk/MEAN-Stack-Applications/tree/master/Images/img1.jpg)
+!(https://github.com/GaneshDesk/MEAN-Stack-Applications/tree/master/Images/img1.jpg)
 
 Mean Stack Developement : 
 
