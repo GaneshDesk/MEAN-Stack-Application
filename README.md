@@ -1,7 +1,7 @@
 ﻿# MEAN-Stack-Applications
 This repository contains MongoDB, Express, Angular, Node Programs.
 
-![Test Image 1](img1.png)
+![Test Image 1](img1.jpg)
 
 Mean Stack Developement : 
 
